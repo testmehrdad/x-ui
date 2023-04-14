@@ -5,5 +5,5 @@
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/HexaSoftwareTech/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/testmehrdad/x-ui/master/install.sh)
 ```
